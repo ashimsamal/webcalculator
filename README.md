@@ -21,7 +21,7 @@ Vanilla JavaScript (ES6+) - Core functionality and DOM manipulation.
 
 🔗 Deployment
 
-GitHub Pages - Free hosting and deployment.
+GitHub Pages - Free hosting and deployment. View the live site: https://ashimsamal.github.io/webcalculator/
 
 🎮 Usage
 
